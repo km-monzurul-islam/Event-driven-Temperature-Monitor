@@ -1,0 +1,14 @@
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\bin\Debug\net8.0\PracticeCode.exe
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\bin\Debug\net8.0\PracticeCode.deps.json
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\bin\Debug\net8.0\PracticeCode.runtimeconfig.json
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\bin\Debug\net8.0\PracticeCode.dll
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\bin\Debug\net8.0\PracticeCode.pdb
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.AssemblyInfoInputs.cache
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.AssemblyInfo.cs
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.dll
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\refint\PracticeCode.dll
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.pdb
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\PracticeCode.genruntimeconfig.cache
+C:\Users\Johnny\Documents\learn-to-code\c-sharp\PracticeCode\obj\Debug\net8.0\ref\PracticeCode.dll
